@@ -8,12 +8,12 @@ Objective: The goal of this project is to create a basic calculator program in j
 Simple Calculator in Java
 This is a simple command-line calculator written in Java. The calculator supports basic arithmetic operations: addition, subtraction, multiplication, and division.
 
---Features
+-Features
    Addition: Adds two numbers.
    Subtraction: Subtracts the second number from the first.
    Multiplication: Multiplies two numbers.
    Division: Divides the first number by the second, with error handling for division by zero.
---How to Use
+-How to Use
   1. Clone the repository:
    git clone https://github.com/yourusername/simple-calculator-java.git
    cd simple-calculator-java
@@ -21,7 +21,7 @@ This is a simple command-line calculator written in Java. The calculator support
    javac simplecalculator.java
  3.Run the program:
    java simplecalculator
---Follow the on-screen prompts:
+-Follow the on-screen prompts:
 
    >Enter the first number.
    >Enter the second number.
@@ -32,7 +32,7 @@ This is a simple command-line calculator written in Java. The calculator support
            Enter the second number: 3
            Choose an operation: +, -, *, /
            The result is: 8.0
---Requirements
+-Requirements
     Java Development Kit (JDK) 8 or higher.
 
    
